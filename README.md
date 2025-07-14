@@ -201,5 +201,11 @@ chrome.switches = """
   --disable-gpu
 """
 ```
+### Test Cases Document (Excel)
+
+As part of the program, an Excel document is included at the root of the repository. The second sheet of this document contains the Test Case Design.
+```
+Test_Cases_Desing_Login_Blank_Factor.xlsx
+```
 
 ---
